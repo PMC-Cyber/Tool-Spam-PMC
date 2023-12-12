@@ -1194,7 +1194,6 @@ echo "                ${BL}║"
 echo "               ${BL}︾"
 sleep 1
 }
-}
 
 menu2_sp3() {
 echo " "
@@ -1907,6 +1906,7 @@ sleep 1
 xdg-open "https://t.me/UCH_2009_Zephyr"
 back2
 }
+
 T3G() {
 echo " "
 echo "${R}┈╦ ╔═╗ ╦ ╔╗╔ ┈ ╔╦╗ ╔═╗ ╦┈┈ ╔═╗ ╔═╗ ╦═╗ ╔═╗ ╔╦╗ ┈  "
@@ -1966,6 +1966,7 @@ sleep 3
 sleep 1
 back
 }
+
 T5J() {
 echo " "
 echo "${R}╦┈╦ ╔═╗ ╔╗┈ ╔═╗ ╦ ╔╦╗ ╔═╗ ┈ ╔═╗ ╦═╗ ╔═╗ ╔╦╗ ┈ ╦┈╦ ╔═╗  "
@@ -1977,6 +1978,7 @@ sleep 3
 sleep 1
 back2
 }
+
 T5G() {
 echo " "
 echo "${R}╦┈╦ ╔═╗ ╔╗┈ ╔═╗ ╦ ╔╦╗ ╔═╗ ┈ ╔═╗ ╦═╗ ╔═╗ ╔╦╗ ┈ ╦┈╦ ╔═╗  "
@@ -1992,7 +1994,7 @@ back3
 # NET HUNTER ON TERMUX
 
 F1() {
-  banner_log
+banner_log
 echo "${WHITE} Script By : KALI LINUX  "
 sleep 1s
 echo  " "
