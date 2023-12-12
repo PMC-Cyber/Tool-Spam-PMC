@@ -62,8 +62,8 @@ if [[ $bahan == 1 || $bahan == 01 ]]; then
 clear
 echo " "
 echo "${WHITE}╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╔═╗ ╔═╗ ╦   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗   "
-echo "${WHITE}║ ║║║ ╚═╗ ┈║┈ ╠═╣ ║   ║   ╠═╣ ╚═╗ ║    ║  ║ ║ ║ ║ ║   ╚═╗   "
-echo "${WHITE}╩ ╝╚╝ ╚═╝ ┈╩┈ ╩┈╩ ╩═╝ ╩═╝ ╩ ╩ ╚═╝ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝   "
+echo "${WHITE}║ ║║║ ╚═╗  ║  ╠═╣ ║   ║   ╠═╣ ╚═╗ ║    ║  ║ ║ ║ ║ ║   ╚═╗   "
+echo "${WHITE}╩ ╝╚╝ ╚═╝  ╩  ╩ ╩ ╩═╝ ╩═╝ ╩ ╩ ╚═╝ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝   "
 echo "${WHITE}   [${GREEN} TIPE INSTALLASI TERMUX , LINUX , NETHUNTER ${WHITE}]"
 echo " "
 echo "${RED} ┏┳┓ ┏━┓ ┳━┓ ┏┳┓ ┳ ┳ ━┓ ┳    "
