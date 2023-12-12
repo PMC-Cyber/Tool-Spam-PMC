@@ -61,9 +61,9 @@ read -p  ' ┗☞ Enter Your Number : '${CYAN} bahan
 if [[ $bahan == 1 || $bahan == 01 ]]; then
 clear
 echo " "
-echo "${WHITE}╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦┈┈ ╦┈┈ ╔═╗ ╔═╗ ╦┈  ╔╦╗ ╔═╗ ╔═╗ ╦┈┈ ╔═╗   "
-echo "${WHITE}║ ║║║ ╚═╗ ┈║┈ ╠═╣ ║┈┈ ║┈┈ ╠═╣ ╚═╗ ║ ┈ ┈║┈ ║┈║ ║┈║ ║┈┈ ╚═╗   "
-echo "${WHITE}╩ ╝╚╝ ╚═╝ ┈╩┈ ╩┈╩ ╩═╝ ╩═╝ ╩┈╩ ╚═╝ ╩ ┈  ╩┈ ╚═╝ ╚═╝ ╩═╝ ╚═╝   "
+echo "${WHITE}╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╔═╗ ╔═╗ ╦   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗   "
+echo "${WHITE}║ ║║║ ╚═╗ ┈║┈ ╠═╣ ║   ║   ╠═╣ ╚═╗ ║    ║  ║ ║ ║ ║ ║   ╚═╗   "
+echo "${WHITE}╩ ╝╚╝ ╚═╝ ┈╩┈ ╩┈╩ ╩═╝ ╩═╝ ╩ ╩ ╚═╝ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝   "
 echo "${WHITE}   [${GREEN} TIPE INSTALLASI TERMUX , LINUX , NETHUNTER ${WHITE}]"
 echo " "
 echo "${RED} ┏┳┓ ┏━┓ ┳━┓ ┏┳┓ ┳ ┳ ━┓ ┳    "
@@ -787,7 +787,7 @@ exit
 banner_login2() {
   clear
 echo " "
-echo -e ${G}"  ▄▀▀▀▄"
+echo -e ${G} "  ▄▀▀▀▄"
 echo -e ${G} " ███████         ▄▀▀▄  ${W}╔═╗ ╔═╗ ╔═╗ ╔═╗ ╦┈╦ ╔═╗ ╦═╗ ╔╦╗   ╦   ╔═╗ ╔═╗ ╦ ╔╗╔  "
 echo -e ${G} " ██ ▀ ██  █▀█▀▀▀▀█  █  ${W}╠═╝ ╠═╣ ╚═╗ ╚═╗ ║║║ ║ ║ ╠╦╝  ║║   ║   ║ ║ ║ ╦ ║ ║║║  "
 echo -e ${G} " ███▄███  ▀ ▀     ▀▀   ${W}╩┈┈ ╩┈╩ ╚═╝ ╚═╝ ╚╩╝ ╚═╝ ╩╚═ ═╩╝   ╩═╝ ╚═╝ ╚═╝ ╩ ╝╚╝  "
@@ -853,9 +853,9 @@ fi
 bahasa() {
 clear
 echo " "
-echo "${WHITE}╔╗┈ ╔═╗ ╦┈╦ ╔═╗ ╔═╗ ╔═╗ ┈ ╔╦╗ ╔═╗ ╔═╗ ╦┈┈ ╔═╗  "
-echo "${WHITE}╠╩╗ ╠═╣ ╠═╣ ╠═╣ ╚═╗ ╠═╣ ┈ ┈║┈ ║┈║ ║┈║ ║┈┈ ╚═╗  "
-echo "${WHITE}╚═╝ ╩┈╩ ╩┈╩ ╩┈╩ ╚═╝ ╩┈╩ ┈ ┈╩┈ ╚═╝ ╚═╝ ╩═╝ ╚═╝  "
+echo "${WHITE}╔╗┈ ╔═╗ ╦ ╦ ╔═╗ ╔═╗ ╔═╗   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗  "
+echo "${WHITE}╠╩╗ ╠═╣ ╠═╣ ╠═╣ ╚═╗ ╠═╣    ║  ║ ║ ║ ║ ║   ╚═╗  "
+echo "${WHITE}╚═╝ ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝  "
 sleep 1s
 echo -e "[${RED} Silakan pilih tipe bahasa installasi yang anda gunakan ${WHITE}] "
 sleep 1s
@@ -900,9 +900,9 @@ fi
 banner_bahasa() {
 clear
 echo " "
-echo "${WHITE}╔╗┈ ╔═╗ ╦┈╦ ╔═╗ ╔═╗ ╔═╗ ┈ ╔╦╗ ╔═╗ ╔═╗ ╦┈┈ ╔═╗  "
-echo "${WHITE}╠╩╗ ╠═╣ ╠═╣ ╠═╣ ╚═╗ ╠═╣ ┈ ┈║┈ ║┈║ ║┈║ ║┈┈ ╚═╗  "
-echo "${WHITE}╚═╝ ╩┈╩ ╩┈╩ ╩┈╩ ╚═╝ ╩┈╩ ┈ ┈╩┈ ╚═╝ ╚═╝ ╩═╝ ╚═╝  "
+echo "${WHITE}╔╗  ╔═╗ ╦ ╦ ╔═╗ ╔═╗ ╔═╗   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗  "
+echo "${WHITE}╠╩╗ ╠═╣ ╠═╣ ╠═╣ ╚═╗ ╠═╣    ║  ║ ║ ║ ║ ║   ╚═╗  "
+echo "${WHITE}╚═╝ ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝  "
 echo "${WHITE}[${GREEN} Silakan pilih tipe bahasa installasi yang anda gunakan ${WHITE}]"
 echo " "
 }
@@ -910,9 +910,9 @@ echo " "
 indo() {
 banner_bahasa
 echo " "
-echo "${RED}┳ ┏┓┏ ┏┳┓ ┏━┓ ┏┓┏ ┏━┓ ┏━┓ ┳ ┏━┓ ┈  "
-echo "${RED}┃ ┃┃┃ ┈┃┃ ┃┈┃ ┃┃┃ ┣┫┈ ┗━┓ ┃ ┣━┫ ┈  [ ${WHITE} BAHASA INDONESIA ${RED}] "
-echo "${RED}┻ ┛┗┛ ━┻┛ ┗━┛ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻┈┻ ┈  "
+echo "${RED}┳ ┏┓┏ ┏┳┓ ┏━┓ ┏┓┏ ┏━┓ ┏━┓ ┳ ┏━┓    "
+echo "${RED}┃ ┃┃┃  ┃┃ ┃ ┃ ┃┃┃ ┣┫  ┗━┓ ┃ ┣━┫    [ ${WHITE} BAHASA INDONESIA ${RED}] "
+echo "${RED}┻ ┛┗┛ ━┻┛ ┗━┛ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻ ┻    "
 sleep 1s
 echo "${WHITE} Translate Script By : Mr./B7"
 echo  " "
@@ -930,9 +930,9 @@ indo1
 jawa() {
 banner_bahasa
 echo " "
-echo "${RED}┈┳ ┏━┓ ┳┈┳ ┏━┓   "
-echo "${RED}┈┃ ┣━┫ ┃┃┃ ┣━┫   [ ${WHITE} BAHASA JAWA ${RED}] "
-echo "${RED}┗┛ ┻┈┻ ┗┻┛ ┻┈┻  "
+echo "${RED} ┳ ┏━┓ ┳ ┳ ┏━┓   "
+echo "${RED} ┃ ┣━┫ ┃┃┃ ┣━┫   [ ${WHITE} BAHASA JAWA ${RED}] "
+echo "${RED}┗┛ ┻ ┻ ┗┻┛ ┻ ┻  "
 sleep 1s
 echo "${WHITE} Translate Script By : Mr./B7"
 echo  " "
@@ -950,9 +950,9 @@ jawa1
 inggr() {
 banner_bahasa
 echo " "
-echo "${RED}┳ ┏┓┏ ┏━┓ ┏━┓ ┳━┓ ┳ ┏━┓ ┈   "
-echo "${RED}┃ ┃┃┃ ┃┈┳ ┃┈┳ ┣┳┛ ┃ ┗━┓ ┈   [ ${WHITE} BAHASA INGGRIS ${RED}] "
-echo "${RED}┻ ┛┗┛ ┗━┛ ┗━┛ ┻┗━ ┻ ┗━┛ ┈  "
+echo "${RED}┳ ┏┓┏ ┏━┓ ┏━┓ ┳━┓ ┳ ┏━┓     "
+echo "${RED}┃ ┃┃┃ ┃ ┳ ┃ ┳ ┣┳┛ ┃ ┗━┓     [ ${WHITE} BAHASA INGGRIS ${RED}] "
+echo "${RED}┻ ┛┗┛ ┗━┛ ┗━┛ ┻┗━ ┻ ┗━┛   "
 sleep 1s
 echo "${WHITE} Translate Script By : Mr./B7"
 echo  " "
@@ -1027,7 +1027,7 @@ echo -e $W"      ┳   ┏━┓ ┏┓┏ ┏━┓ ┳ ┳ ┏━┓ ┏━┓
 echo -e $W"      ┃   ┣━┫ ┃┃┃ ┃ ┳ ┃ ┃ ┣━┫ ┃ ┳ ┣┫      ${G} ███████ ${W}═╮"
 echo -e $W"      ┻━┛ ┻ ┻ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻ ┗━┛ ┗━┛     ${G} ███████ ${W}▏ ${O}Sambil Ngopi ya bang ${G}:) "
 echo -e $W"      ┳ ┏┓┏ ┏┳┓ ┏━┓ ┏┓┏ ┏━┓ ┏━┓ ┳ ┏━┓      ${G}███████ ${W}═╯"
-echo -e $W"      ┃ ┃┃┃ ┈┃┃ ┃┈┃ ┃┃┃ ┣┫┈ ┗━┓ ┃ ┣━┫      ${G}◥█████◤ "
+echo -e $W"      ┃ ┃┃┃  ┃┃ ┃ ┃ ┃┃┃ ┣┫  ┗━┓ ┃ ┣━┫      ${G}◥█████◤ "
 echo -e $W"      ┻ ┛┗┛ ━┻┛ ┗━┛ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻┈┻        ${W}Script By ${G}: ${O}UCH-09 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 echo " "
 sleep 1
@@ -1044,9 +1044,9 @@ echo " "
 echo -e $W"      ┳   ┏━┓ ┏┓┏ ┏━┓ ┳ ┳ ┏━┓ ┏━┓ ┏━┓       ${O}))))"
 echo -e $W"      ┃   ┣━┫ ┃┃┃ ┃ ┳ ┃ ┃ ┣━┫ ┃ ┳ ┣┫      ${G} ███████ ${W}═╮"
 echo -e $W"      ┻━┛ ┻ ┻ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻ ┗━┛ ┗━┛     ${G} ███████ ${W}▏ ${O}Sambil Ngopi ya bang ${G}:) "
-echo -e $W"                ┳ ┏━┓ ┳┈┳ ┏━┓            ${G}███████ ${W}═╯"
-echo -e $W"                ┃ ┣━┫ ┃┃┃ ┣━┫            ${G}◥█████◤ "
-echo -e $W"               ┗┛ ┻┈┻ ┗┻┛ ┻┈┻              ${W}Script By ${G}: ${O}UCH-09 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+echo -e $W"                ┳ ┏━┓ ┳ ┳ ┏━┓                ${G}███████ ${W}═╯"
+echo -e $W"                ┃ ┣━┫ ┃┃┃ ┣━┫                ${G}◥█████◤ "
+echo -e $W"               ┗┛ ┻ ┻ ┗┻┛ ┻ ┻                  ${W}Script By ${G}: ${O}UCH-09 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 echo " "
 sleep 1
 menu_spam2
@@ -1073,13 +1073,13 @@ menu37
 menu_spam() {
   clear
 echo " "
-echo -e $O "╔╦╗ ╦┈╦ ╔═╗ ╔═╗ ╦ ┈ ╔═╗ ╔═╗ ╔═╗ ╔╦╗ ╔╦╗ ╔═╗ ╦═╗  "
-echo -e $O "┈║┈ ║┈║ ╠═╝ ╠═╣ ║ ┈ ╚═╗ ╠═╝ ╠═╣ ║║║ ║║║ ║╣┈ ╠╦╝  "
-echo -e $O "┈╩┈ ╚═╝ ╩┈┈ ╩┈╩ ╩ ┈ ╚═╝ ╩┈┈ ╩┈╩ ╩┈╩ ╩┈╩ ╚═╝ ╩╚═  "
+echo -e $O "╔╦╗ ╦ ╦ ╔═╗ ╔═╗ ╦   ╔═╗ ╔═╗ ╔═╗ ╔╦╗ ╔╦╗ ╔═╗ ╦═╗  "
+echo -e $O " ║  ║ ║ ╠═╝ ╠═╣ ║   ╚═╗ ╠═╝ ╠═╣ ║║║ ║║║ ║╣  ╠╦╝  "
+echo -e $O " ╩  ╚═╝ ╩   ╩ ╩ ╩   ╚═╝ ╩   ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩╚═  "
 echo " "
 echo -e $W "                         ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓"
-echo -e $W  "                         ┃  ${G}Tools    :   TUPAI SPAMMER V.2   ${W} ┃      " 
-echo -e $R  "  ${BL}╔═══\e[33mTOOLS FROM UCH ${BL}════${W}┃  Author   :  Mr./B7  $white              ┃ " 
+echo -e $W  "                         ┃  ${G}Tools    : TUPAI SPAMMER V.2     ${W} ┃      " 
+echo -e $R  "  ${BL}╔═══\e[33mTOOLS FROM UCH ${BL}════${W}┃  Author   : Mr./B7   $white              ┃ " 
 echo -e $W  "  ${BL}║                      ${W}┃  Contact  : 08600685685$white            ┃      "  
 echo "   ${BL}║                      ${W}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫"
 echo -e $W  "  ${BL}╚════════════╗         ${W}┃     Thank,s for use this tools :)  ┃    "
@@ -1123,15 +1123,16 @@ echo -e "${BL}                      ╚════╩════════�
 echo " "
 }
 
-menu_spam2() {  clear
+menu_spam2() {  
+clear
 echo " "
-echo -e $O "╔╦╗ ╦┈╦ ╔═╗ ╔═╗ ╦ ┈ ╔═╗ ╔═╗ ╔═╗ ╔╦╗ ╔╦╗ ╔═╗ ╦═╗  "
-echo -e $O "┈║┈ ║┈║ ╠═╝ ╠═╣ ║ ┈ ╚═╗ ╠═╝ ╠═╣ ║║║ ║║║ ║╣┈ ╠╦╝  "
-echo -e $O "┈╩┈ ╚═╝ ╩┈┈ ╩┈╩ ╩ ┈ ╚═╝ ╩┈┈ ╩┈╩ ╩┈╩ ╩┈╩ ╚═╝ ╩╚═  "
+echo -e $O "╔╦╗ ╦ ╦ ╔═╗ ╔═╗ ╦   ╔═╗ ╔═╗ ╔═╗ ╔╦╗ ╔╦╗ ╔═╗ ╦═╗  "
+echo -e $O " ║  ║ ║ ╠═╝ ╠═╣ ║   ╚═╗ ╠═╝ ╠═╣ ║║║ ║║║ ║╣  ╠╦╝  "
+echo -e $O " ╩  ╚═╝ ╩   ╩ ╩ ╩   ╚═╝ ╩   ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩╚═  "
 echo " "
 echo -e $W "                         ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓"
-echo -e $W  "                         ┃  ${G}Tools    :   TUPAI SPAMMER V.2   ${W} ┃      " 
-echo -e $R  "  ${BL}╔═══\e[33mTOOLS FROM UCH ${BL}════${W}┃  Author   :  Mr./B7  $white              ┃ " 
+echo -e $W  "                         ┃  ${G}Tools    : TUPAI SPAMMER V.2     ${W} ┃      " 
+echo -e $R  "  ${BL}╔═══\e[33mTOOLS FROM UCH ${BL}════${W}┃  Author   : Mr./B7   $white              ┃ " 
 echo -e $W  "  ${BL}║                      ${W}┃  Contact  : 08600685685$white            ┃      "  
 echo "   ${BL}║                      ${W}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫"
 echo -e $W  "  ${BL}╚════════════╗         ${W}┃     Thank,s for use this tools :)  ┃    "
@@ -1178,13 +1179,13 @@ echo " "
 menu_spam3() {
     clear
 echo " "
-echo -e $O "╔╦╗ ╦┈╦ ╔═╗ ╔═╗ ╦ ┈ ╔═╗ ╔═╗ ╔═╗ ╔╦╗ ╔╦╗ ╔═╗ ╦═╗  "
-echo -e $O "┈║┈ ║┈║ ╠═╝ ╠═╣ ║ ┈ ╚═╗ ╠═╝ ╠═╣ ║║║ ║║║ ║╣┈ ╠╦╝  "
-echo -e $O "┈╩┈ ╚═╝ ╩┈┈ ╩┈╩ ╩ ┈ ╚═╝ ╩┈┈ ╩┈╩ ╩┈╩ ╩┈╩ ╚═╝ ╩╚═  "
+echo -e $O "╔╦╗ ╦ ╦ ╔═╗ ╔═╗ ╦   ╔═╗ ╔═╗ ╔═╗ ╔╦╗ ╔╦╗ ╔═╗ ╦═╗  "
+echo -e $O " ║  ║ ║ ╠═╝ ╠═╣ ║   ╚═╗ ╠═╝ ╠═╣ ║║║ ║║║ ║╣  ╠╦╝  "
+echo -e $O " ╩  ╚═╝ ╩   ╩ ╩ ╩   ╚═╝ ╩   ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩╚═  "
 echo " "
 echo -e $W "                         ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓"
-echo -e $W  "                         ┃  ${G}Tools    :   TUPAI SPAMMER V.2   ${W} ┃      " 
-echo -e $R  "  ${BL}╔═══\e[33mTOOLS FROM UCH ${BL}════${W}┃  Author   :  Mr./B7  $white              ┃ " 
+echo -e $W  "                         ┃  ${G}Tools    : TUPAI SPAMMER V.2     ${W} ┃      " 
+echo -e $R  "  ${BL}╔═══\e[33mTOOLS FROM UCH ${BL}════${W}┃  Author   : Mr./B7   $white              ┃ " 
 echo -e $W  "  ${BL}║                      ${W}┃  Contact  : 08600685685$white            ┃      "  
 echo "   ${BL}║                      ${W}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫"
 echo -e $W  "  ${BL}╚════════════╗         ${W}┃     Thank,s for use this tools :)  ┃    "
@@ -1192,6 +1193,7 @@ echo -e $W  "               ${BL}║         ${W}┗━━━━━━━━━�
 echo "                ${BL}║"
 echo "               ${BL}︾"
 sleep 1
+}
 }
 
 menu2_sp3() {
