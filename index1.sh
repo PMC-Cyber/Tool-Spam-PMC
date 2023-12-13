@@ -1202,7 +1202,7 @@ menu2_sp3() {
 echo " "
 echo -e "     ${BL} ╔═════════════════════════════════════════════════════════════════╗"
 echo -e "     ${BL} ║                   ${R} >>> created by:  Mr./B7  <<<               ${BL}  ║"
-echo -e "     ${BL} ║   \e[33mGUNAKAN TOOLS DENGAN BIJAK YA BRO JANGAN MERUGIAKAN ORANG ${BL}    ║"
+echo -e "     ${BL} ║   \e[33m     USE THE TOOLS WISELY, BROTHER, DON'T HARM PEOPLE     ${BL}    ║"
 echo -e "     ${BL} ╚════════════════════════════════╦════════════════════════════════╝"
 echo -e "     ${BL}                                  ║"
 echo -e "     ${BL}         ╔════╦═══════════════╗   ║    ╔════╦═══════════════╗"
@@ -1235,7 +1235,7 @@ echo " "
 menu35() {
 sleep 1
 echo -e $G "┏⟦ "${W}"Pilih Fitur yang tuan pengin gunakan "${G}":)"
-read -p  ' ┗☞ Enter Your Number :' bantu
+read -p  ' ┗☞ Enter Your NumbeSelect the feature you want to user :' bantu
 if [[ $bantu == s1 || $bantu == S1 ]]; then
 S1
 elif [[ $bantu == s2 || $bantu == S2 ]]; then
