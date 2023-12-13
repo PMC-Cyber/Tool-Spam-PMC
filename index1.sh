@@ -2185,6 +2185,7 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
  
 # UPDATE
 UP() {
+clear
 echo " "
 echo "${R}┳ ┳ ┏━┓ ┏┳┓ ┏━┓ ┏┳┓ ┏━┓   ┏┳┓ ┏━┓ ┏━┓ ┳   ┏━┓  "
 echo "${R}┃ ┃ ┣━┛  ┃┃ ┣━┫  ┃  ┣┫     ┃  ┃ ┃ ┃ ┃ ┃   ┗━┓  "
@@ -2204,10 +2205,11 @@ git clone https://github.com/Unlimited-Crack-You/Tool-Spam-PMC.git
 cd Tool-Spam-PMC
 chmod +x *
 git pull
-bash index.sh
+dor
 }
 
 UPJ() {
+clear
 echo " "
 echo "${R}┳ ┳ ┏━┓ ┏┳┓ ┏━┓ ┏┳┓ ┏━┓   ┏┳┓ ┏━┓ ┏━┓ ┳   ┏━┓  "
 echo "${R}┃ ┃ ┣━┛  ┃┃ ┣━┫  ┃  ┣┫     ┃  ┃ ┃ ┃ ┃ ┃   ┗━┓  "
@@ -2227,10 +2229,11 @@ git clone https://github.com/Unlimited-Crack-You/Tool-Spam-PMC.git
 cd Tool-Spam-PMC
 chmod +x *
 git pull
-bash index.sh
+dor2
 }
 
 UPG() {
+clear
 echo " "
 echo "${R}┳ ┳ ┏━┓ ┏┳┓ ┏━┓ ┏┳┓ ┏━┓   ┏┳┓ ┏━┓ ┏━┓ ┳   ┏━┓  "
 echo "${R}┃ ┃ ┣━┛  ┃┃ ┣━┫  ┃  ┣┫     ┃  ┃ ┃ ┃ ┃ ┃   ┗━┓  "
@@ -2250,7 +2253,7 @@ git clone https://github.com/Unlimited-Crack-You/Tool-Spam-PMC.git
 cd Tool-Spam-PMC
 chmod +x *
 git pull
-bash index.sh
+dor3
 }
 
 # KELUAR / LOGOUT 
@@ -2331,6 +2334,72 @@ echo -e $W"BY ${G}: ${O}Mr./B7"
 sleep 3
 clear
 exit
+}
+
+dor() {
+  echo " "
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Kembali ke Menu Tools \e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Kembali ke Menu Installasi \e[0m\n"
+printf "\e[0m\n"
+read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' bahan
+
+if [[ $bahan == 1 || $bahan == 01 ]]; then
+dektol
+elif [[ $bahan == 2 || $bahan == 02 ]]; then
+menu
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+dor
+fi
+}
+
+dor2() {
+  echo " "
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Kembali ke Menu Tools \e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Kembali ke Menu Installasi \e[0m\n"
+printf "\e[0m\n"
+read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' bahan
+
+if [[ $bahan == 1 || $bahan == 01 ]]; then
+dektol2
+elif [[ $bahan == 2 || $bahan == 02 ]]; then
+menu
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+dor2
+fi
+}
+
+dor3() {
+  echo " "
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Kembali ke Menu Tools \e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Kembali ke Menu Installasi \e[0m\n"
+printf "\e[0m\n"
+read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' bahan
+
+if [[ $bahan == 1 || $bahan == 01 ]]; then
+dektol3
+elif [[ $bahan == 2 || $bahan == 02 ]]; then
+menu
+else
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+dor3
+fi
+}
+
+dektol() {
+bahasa
+}
+
+dektol2() {
+bahasa2
+}
+
+dektol3() {
+bahasa3
 }
 
 clear
