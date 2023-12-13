@@ -799,7 +799,7 @@ login_termux() {
   echo " "
 printf "\033[31m• \033[33mMASUKAN KEY BUAT LOGIN \e[0m\n"
 read -p "KEY AKSES >> " apa 
-if [ "$apa" = "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" ]
+if [ "$apa" = ${BL}"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" ]
 then
 printf "\033[36m KAY PENGGUNA BENAR SILAKAN MENGOPERASIKAN \e[0m\n"
 sleep 2
@@ -818,7 +818,7 @@ login_linux() {
   echo " "
 printf "\033[31m• \033[33mMASUKAN KEY BUAT LOGIN \e[0m\n"
 read -p "KEY AKSES >> " apa 
-if [ "$apa" = "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" ]
+if [ "$apa" = ${BL}"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" ]
 then
 printf "\033[36m KAY PENGGUNA BENAR SILAKAN MENGOPERASIKAN \e[0m\n"
 sleep 2
@@ -837,7 +837,7 @@ login_kali() {
   echo " "
 printf "\033[31m• \033[33mMASUKAN KEY BUAT LOGIN \e[0m\n"
 read -p "KEY AKSES >> " apa 
-if [ "$apa" = "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" ]
+if [ "$apa" = ${BL}"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" ]
 then
 printf "\033[36m KAY PENGGUNA BENAR SILAKAN MENGOPERASIKAN \e[0m\n"
 sleep 2
@@ -853,7 +853,7 @@ fi
 bahasa() {
 clear
 echo " "
-echo "${WHITE}╔╗┈ ╔═╗ ╦ ╦ ╔═╗ ╔═╗ ╔═╗   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗  "
+echo "${WHITE}╔╗  ╔═╗ ╦ ╦ ╔═╗ ╔═╗ ╔═╗   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗  "
 echo "${WHITE}╠╩╗ ╠═╣ ╠═╣ ╠═╣ ╚═╗ ╠═╣    ║  ║ ║ ║ ║ ║   ╚═╗  "
 echo "${WHITE}╚═╝ ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝  "
 sleep 1s
