@@ -1234,8 +1234,8 @@ echo " "
 
 menu35() {
 sleep 1
-echo -e $G "┏⟦ "${W}"Pilih Fitur yang tuan pengin gunakan "${G}":)"
-read -p  ' ┗☞ Enter Your NumbeSelect the feature you want to user :' bantu
+echo -e $G "┏⟦ "${W}"Pilih Fitur yang tuan pengin gunakan ${G}:)"
+read -p  ' ┗☞ Enter Pilih Nomer :' bantu
 if [[ $bantu == s1 || $bantu == S1 ]]; then
 S1
 elif [[ $bantu == s2 || $bantu == S2 ]]; then
@@ -1276,7 +1276,7 @@ fi
 
 menu36() {
 sleep 1
-echo -e $G "┏⟦ "${W}"Pilih Fitur yang tuan pengin gunakan "${G}":)"
+echo -e $G "┏⟦ "${W}"Pilih Fitur yang tuan pengin gunakan ${G}:)"
 read -p  ' ┗☞ Enter Your Number :' bantu
 if [[ $bantu == s1 || $bantu == S1 ]]; then
 S1J
@@ -1318,7 +1318,7 @@ fi
 
 menu37() {
 sleep 1
-echo -e $G "┏⟦ "${W}"Pilih Fitur yang tuan pengin gunakan "${G}":)"
+echo -e $G "┏⟦ "${W}"Select the feature you want to use ${G}:)"
 read -p  ' ┗☞ Enter Your Number :' bantu
 if [[ $bantu == s1 || $bantu == S1 ]]; then
 S1G
@@ -1520,12 +1520,12 @@ trm
 echo "${W} Script By : SPAM SCRIPT"
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo "${BL}[${R}!${BL}] ${G}Sir, using the Termux installation software, wait until the installation is complete"
 sleep 1s
 echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
 echo " "
 sleep 2s
-echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
+echo "~{${O} Preparing To Install Tuan ${G}}~"
 sleep 3s
 echo " "
 termux-setup-storage -y
@@ -1608,12 +1608,12 @@ trm
 echo "${W} Script By : H20"
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo "${BL}[${R}!${BL}] ${G}Sir, using the Termux installation software, wait until the installation is complete"
 sleep 1s
 echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
 echo " "
 sleep 2s
-echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
+echo "~{${O} Preparing To Install Tuan ${G}}~"
 sleep 3s
 echo " "
 pkg update && pkg upgrade
@@ -1699,12 +1699,12 @@ trm
 echo "${W} Script By : V.D "
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo "${BL}[${R}!${BL}] ${G}Sir, using the Termux installation software, wait until the installation is complete"
 sleep 1s
 echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
 echo " "
 sleep 2s
-echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
+echo "~{${O} Preparing To Install Tuan ${G}}~"
 sleep 3s
 echo " "
 pkg update && pkg upgrade
@@ -1813,12 +1813,12 @@ trm
 echo "${W} Script By : V.D "
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo "${BL}[${R}!${BL}] ${G}Sir, using the Termux installation software, wait until the installation is complete"
 sleep 1s
 echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
 echo " "
 sleep 2s
-echo "~{${O} TOOLS BELUM JADI MASIH DALAM PROGRES  ${G}}~"
+echo "~{${O} TOOLS ARE NOT YET STILL IN PROGRESS ${G}}~"
 sleep 3s
 echo " "
 back3
@@ -2246,7 +2246,7 @@ sleep 1s
 echo "${BL}[${R}✓${BL}] ${G}Loading Installing Update in Termux.."
     echo " "
       sleep 2s
-   echo "~{${O} Bersiap Untuk Mengupdate Tools ${G}}~"
+   echo "~{${O} Ready to update Tools ${G}}~"
 cd $HOME
 rm -rf Tool-Spam-PMC
 git clone https://github.com/Unlimited-Crack-You/Tool-Spam-PMC.git
@@ -2320,16 +2320,16 @@ sleep 1s
 echo "${W} Script By :  Mr./B7  "
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Sedang Proses Keluar Tunggu TOD"
+echo "${BL}[${R}!${BL}] ${G}Tuan Exit Processing Wait TOD"
 sleep 1s
 echo "${BL}[${R}✓${BL}] ${G}Loading Logout In Software From..."
 echo " "
 sleep 2s
-echo "~{${O} TUUAN TELAH LOGOUT DARI FROM UCH BAY BAY ${G}}~"
+echo "~{${O} SIR HAS BEEN LOGGED OUT OF FROM UCH BAY BAY ${G}}~"
 sleep 3s
 echo " "
 echo -e $W"KHO :)" 
-echo -e $G"THANK'S Sampai Jumpa di Kemudian Hari"
+echo -e $G"THANK'S See you later "
 echo -e $W"BY ${G}: ${O}Mr./B7"
 sleep 3
 clear
