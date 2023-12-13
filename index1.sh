@@ -2391,14 +2391,17 @@ fi
 }
 
 dektol() {
+clear
 bahasa
 }
 
 dektol2() {
+clear
 bahasa2
 }
 
 dektol3() {
+clear
 bahasa3
 }
 
