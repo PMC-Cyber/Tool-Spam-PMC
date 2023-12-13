@@ -798,7 +798,7 @@ login_termux() {
   banner_login2
   echo " "
 printf "\033[31m• \033[33mMASUKAN KEY BUAT LOGIN \e[0m\n"
-read -p "KEY AKSES >> "${BL} apa 
+read -p "KEY AKSES >> "${B} apa 
 if [ "$apa" = "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" ]
 then
 printf "\033[36m KAY PENGGUNA BENAR SILAKAN MENGOPERASIKAN \e[0m\n"
@@ -817,7 +817,7 @@ login_linux() {
   banner_login2
   echo " "
 printf "\033[31m• \033[33mMASUKAN KEY BUAT LOGIN \e[0m\n"
-read -p "KEY AKSES >> "${BL} apa 
+read -p "KEY AKSES >> "${B} apa 
 if [ "$apa" = "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" ]
 then
 printf "\033[36m KAY PENGGUNA BENAR SILAKAN MENGOPERASIKAN \e[0m\n"
@@ -836,7 +836,7 @@ login_kali() {
   banner_login2
   echo " "
 printf "\033[31m• \033[33mMASUKAN KEY BUAT LOGIN \e[0m\n"
-read -p "KEY AKSES >> "${BL} apa 
+read -p "KEY AKSES >> "${B} apa 
 if [ "$apa" = "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" ]
 then
 printf "\033[36m KAY PENGGUNA BENAR SILAKAN MENGOPERASIKAN \e[0m\n"
