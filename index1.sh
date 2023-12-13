@@ -956,14 +956,14 @@ echo "${RED}┻ ┛┗┛ ┗━┛ ┗━┛ ┻┗━ ┻ ┗━┛   "
 sleep 1s
 echo "${WHITE} Translate Script By : Mr./B7"
 echo  " "
-echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan bahan Inggris tunggu sampai instalasinya selesai"
+echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Mr. Using British materials, wait until the installation is complete"
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Bahasa Inggris..."
 echo " "
 sleep 1
-echo "~{${ORANGE} Bersiap Untuk Masuk Tuan }~"
+echo "~{${ORANGE} Ready to go Tuan }~"
 sleep 1
 echo " "
-echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} INSTALASINYA SCRIPT SELESAI TUAN ..."
+echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} THE INSTALLATION SCRIPT IS COMPLETE, SIR ..."
 iggr1
 }
 
@@ -1059,7 +1059,7 @@ iggr1() {
 echo " "
 echo -e $W"      ┳   ┏━┓ ┏┓┏ ┏━┓ ┳ ┳ ┏━┓ ┏━┓ ┏━┓       ${O}))))"
 echo -e $W"      ┃   ┣━┫ ┃┃┃ ┃ ┳ ┃ ┃ ┣━┫ ┃ ┳ ┣┫      ${G} ███████ ${W}═╮"
-echo -e $W"      ┻━┛ ┻ ┻ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻ ┗━┛ ┗━┛     ${G} ███████ ${W}▏ ${O}Sambil Ngopi ya bang ${G}:) "
+echo -e $W"      ┻━┛ ┻ ┻ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻ ┗━┛ ┗━┛     ${G} ███████ ${W}▏ ${O}While drinking coffee, bro ${G}:) "
 echo -e $W"         ┳ ┏┓┏ ┏━┓ ┏━┓ ┳━┓ ┳ ┏━┓           ${G}███████ ${W}═╯"
 echo -e $W"         ┃ ┃┃┃ ┃ ┳ ┃ ┳ ┣┳┛ ┃ ┗━┓           ${G}◥█████◤ "
 echo -e $W"         ┻ ┛┗┛ ┗━┛ ┗━┛ ┻┗━ ┻ ┗━┛             ${W}Script By ${G}: ${O}UCH-09 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -2201,7 +2201,7 @@ echo "${BL}[${R}✓${BL}] ${G}Loading Installing Update in Termux.."
    echo "~{${O} Bersiap Untuk Mengupdate Tools ${G}}~"
 cd $HOME
 rm -rf Tool-Spam-PMC
-git clone https://github.com/Unlimited-Crack-You/Tool-Spam-PMC.git
+git clone https://github.com/PMC-Cyber/Tool-Spam-PMC.git
 cd Tool-Spam-PMC
 chmod +x *
 git pull
@@ -2225,7 +2225,7 @@ echo "${BL}[${R}✓${BL}] ${G}Loading Installing Update in Termux.."
    echo "~{${O} Bersiap Untuk Mengupdate Tools ${G}}~"
 cd $HOME
 rm -rf Tool-Spam-PMC
-git clone https://github.com/Unlimited-Crack-You/Tool-Spam-PMC.git
+git clone https://github.com/PMC-Cyber/Tool-Spam-PMC.git
 cd Tool-Spam-PMC
 chmod +x *
 git pull
@@ -2249,7 +2249,7 @@ echo "${BL}[${R}✓${BL}] ${G}Loading Installing Update in Termux.."
    echo "~{${O} Ready to update Tools ${G}}~"
 cd $HOME
 rm -rf Tool-Spam-PMC
-git clone https://github.com/Unlimited-Crack-You/Tool-Spam-PMC.git
+git clone https://github.com/PMC-Cyber/Tool-Spam-PMC.git
 cd Tool-Spam-PMC
 chmod +x *
 git pull
