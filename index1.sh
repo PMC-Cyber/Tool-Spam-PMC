@@ -903,7 +903,7 @@ echo " "
 echo "${WHITE}╔╗  ╔═╗ ╦ ╦ ╔═╗ ╔═╗ ╔═╗   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗  "
 echo "${WHITE}╠╩╗ ╠═╣ ╠═╣ ╠═╣ ╚═╗ ╠═╣    ║  ║ ║ ║ ║ ║   ╚═╗  "
 echo "${WHITE}╚═╝ ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝  "
-echo "${WHITE}[${GREEN} Silakan pilih tipe bahasa installasi yang anda gunakan ${WHITE}]"
+echo "${WHITE}[${GREEN} ANDA MENGGUNAKAN BAHASA INDONESIA DALAM TOOL INI ${WHITE}]"
 echo " "
 }
 
