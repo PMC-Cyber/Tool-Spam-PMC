@@ -907,6 +907,26 @@ echo "${WHITE}[${GREEN} ANDA MENGGUNAKAN BAHASA INDONESIA DALAM TOOL INI ${WHITE
 echo " "
 }
 
+banner_bahasa2() {
+clear
+echo " "
+echo "${WHITE}╔╗  ╔═╗ ╦ ╦ ╔═╗ ╔═╗ ╔═╗   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗  "
+echo "${WHITE}╠╩╗ ╠═╣ ╠═╣ ╠═╣ ╚═╗ ╠═╣    ║  ║ ║ ║ ║ ║   ╚═╗  "
+echo "${WHITE}╚═╝ ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝  "
+echo "${WHITE}[${GREEN} ꦄꦟ꧀ꦢꦩꦺꦁꦓꦸꦟꦑꦟ꧀ꦨꦲꦯꦅꦟ꧀ꦢꦺꦴꦟꦺꦯꦶꦄꦢꦭꦩ꧀ꦎꦭ꧀ꦅꦟꦶ${WHITE}]"
+echo " "
+}
+
+banner_bahasa3() {
+clear
+echo " "
+echo "${WHITE}╔╗  ╔═╗ ╦ ╦ ╔═╗ ╔═╗ ╔═╗   ╔╦╗ ╔═╗ ╔═╗ ╦   ╔═╗  "
+echo "${WHITE}╠╩╗ ╠═╣ ╠═╣ ╠═╣ ╚═╗ ╠═╣    ║  ║ ║ ║ ║ ║   ╚═╗  "
+echo "${WHITE}╚═╝ ╩ ╩ ╩ ╩ ╩ ╩ ╚═╝ ╩ ╩    ╩  ╚═╝ ╚═╝ ╩═╝ ╚═╝  "
+echo "${WHITE}[${GREEN} ANDA MENGGUNAKAN BAHASA INDONESIA DALAM TOOL INI ${WHITE}]"
+echo " "
+}
+
 indo() {
 banner_bahasa
 echo " "
@@ -928,7 +948,7 @@ indo1
 }
 
 jawa() {
-banner_bahasa
+banner_bahasa2
 echo " "
 echo "${RED} ┳ ┏━┓ ┳ ┳ ┏━┓   "
 echo "${RED} ┃ ┣━┫ ┃┃┃ ┣━┫   [ ${WHITE} BAHASA JAWA ${RED}] "
@@ -948,7 +968,7 @@ jawa1
 }
 
 inggr() {
-banner_bahasa
+banner_bahasa3
 echo " "
 echo "${RED}┳ ┏┓┏ ┏━┓ ┏━┓ ┳━┓ ┳ ┏━┓     "
 echo "${RED}┃ ┃┃┃ ┃ ┳ ┃ ┳ ┣┳┛ ┃ ┗━┓     [ ${WHITE} BAHASA INGGRIS ${RED}] "
