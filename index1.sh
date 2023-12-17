@@ -936,6 +936,16 @@ echo "${W}[${G} TIPE INSTALLASI TERMUX , LINUX , NETHUNTER ${W}]"
 echo " "
 }
 
+banner_log3() {
+clear
+echo " "
+echo -e "${W}╔╦╗ ╔═╗ ╔═╗ ╦     ╔═╗ ╦═╗ ╔═╗ ╔╦╗   ╦┈╦ ╔═╗ ╦ ╦  "
+echo -e "${W} ║  ║ ║ ║ ║ ║     ╠╣  ╠╦╝ ║ ║ ║║║   ║ ║ ║   ╠═╣  "
+echo -e "${W} ╩  ╚═╝ ╚═╝ ╩═╝   ╚   ╩╚═ ╚═╝ ╩┈╩   ╚═╝ ╚═╝ ╩┈╩  "
+echo "${W}[${G} ꦡꦶꦦꦺꦅꦟ꧀ꦯ꧀ꦡꦭ꧀ꦭꦯꦶꦡꦺꦂꦩꦸꦲꦼ꧈ꦭꦶꦟꦸꦲꦼ꧈ꦟꦺꦛꦸꦟ꧀ꦡꦺꦂ ${W}]"
+echo " "
+}
+
 trm() {
 echo " "
 echo "${R} ┏┳┓ ┏━┓ ┳━┓ ┏┳┓ ┳ ┳ ━┓ ┳    "
@@ -947,7 +957,7 @@ sleep 1s
 trm2() {
 echo " "
 echo "${R} ┏┳┓ ┏━┓ ┳━┓ ┏┳┓ ┳ ┳ ━┓ ┳    "
-echo "${R}  ┃  ┣┫  ┣┳┛ ┃┃┃ ┃ ┃ ┏┻┳┛    [ ${W} ${R}] "
+echo "${R}  ┃  ┣┫  ┣┳┛ ┃┃┃ ┃ ┃ ┏┻┳┛    [ ${W} ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦡꦺꦂꦩꦸꦲꦼ ${R}] "
 echo "${R}  ┻  ┗━┛ ┻┗━ ┻ ┻ ┗━┛ ┻ ┗━    "
 sleep 1s
 }
@@ -983,17 +993,17 @@ back
 }
 
 S1J() {
-banner_log
+banner_log3
 trm2
-echo "${W} Script By : SPAM SCRIPT"
+echo "${W} ꦯ꧀ꦕꦿꦶ : SPAM SCRIPT"
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo "${BL}[${R}!${BL}] ${G}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦲꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦱꦶꦡꦺꦂꦩꦸꦲꦼꦠꦸꦁꦒꦸꦱꦩ꧀ꦥꦲꦶꦲꦶꦤ꧀ꦱ꧀ꦠꦭꦱꦶꦚꦱꦺꦭꦺꦱꦲꦶ"
 sleep 1s
-echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
+echo "${BL}[${R}✓${BL}] ${G}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦅꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ..."
 echo " "
 sleep 2s
-echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
+echo "~{${O} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦔꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦲꦤ꧀ ${G}}~"
 sleep 3s
 echo " "
 termux-setup-storage -y
@@ -1007,7 +1017,7 @@ rm -rf spambrutalv5.2
 git clone https://github.com/h20-studio/spambrutalv5.2
 cd spambrutalv5.2
 clear
-echo "SELESAI MENGINSTALL SCRIPT SELESAI TOD"
+echo "ꦯꦺꦭꦺꦯꦅꦩꦺꦔꦶꦟ꧀ꦯ꧀ꦡꦭ꧀ꦕꦿꦶꦦ꧀ꦯꦺꦭꦺꦯꦅꦡꦺꦴꦢ꧀"
 python bot.py
 back2
 }
@@ -1037,7 +1047,7 @@ rm -rf spambrutalv5.2
 git clone https://github.com/h20-studio/spambrutalv5.2
 cd spambrutalv5.2
 clear
-echo "SELESAI MENGINSTALL SCRIPT SELESAI TOD"
+echo "FINISH INSTALLING THE SCRIPT FINISH TOD"
 python bot.py
 back3
 }
@@ -1066,24 +1076,24 @@ back
 }
 
 S2J() {
-  banner_log
+  banner_log3
 trm2
-echo "${W} Script By : H20"
+echo "${W}  ꦯ꧀ꦕꦿꦶ : H20"
 sleep 1s
-echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo " "
+echo "${BL}[${R}!${BL}] ${G}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦲꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦱꦶꦡꦺꦂꦩꦸꦲꦼꦠꦸꦁꦒꦸꦱꦩ꧀ꦥꦲꦶꦲꦶꦤ꧀ꦱ꧀ꦠꦭꦱꦶꦚꦱꦺꦭꦺꦱꦲꦶ"
 sleep 1s
-echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
+echo "${BL}[${R}✓${BL}] ${G}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦅꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ..."
 echo " "
 sleep 2s
-echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
+echo "~{${O} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦔꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦲꦤ꧀ ${G}}~"
 sleep 3s
 echo " "
 rm -rf SpamV2
 git clone https://github.com/Unlimited-Crack-You/SpamV2.git
 cd SpamV2
 clear
-echo "${O}SELESAI MENGINSTALL SCRIPT SELESAI TOD"
+echo "${O}ꦯꦺꦭꦺꦯꦅꦩꦺꦔꦶꦟ꧀ꦯ꧀ꦡꦭ꧀ꦕꦿꦶꦦ꧀ꦯꦺꦭꦺꦯꦅꦡꦺꦴꦢ꧀"
 bash install.sh
 back2
 }
@@ -1106,7 +1116,7 @@ rm -rf SpamV2
 git clone https://github.com/Unlimited-Crack-You/SpamV2.git
 cd SpamV2
 clear
-echo "${O}SELESAI MENGINSTALL SCRIPT SELESAI TOD"
+echo "${O}FINISH INSTALLING THE SCRIPT FINISH TOD"
 bash install.sh
 back3
 }
@@ -1140,17 +1150,17 @@ back
 }
 
 S3J() {
-  banner_log
+  banner_log3
 trm2
-echo "${W} Script By : V.D "
+echo "${W}  ꦯ꧀ꦕꦿꦶ : V.D"
 sleep 1s
-echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo " "
+echo "${BL}[${R}!${BL}] ${G}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦲꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦱꦶꦡꦺꦂꦩꦸꦲꦼꦠꦸꦁꦒꦸꦱꦩ꧀ꦥꦲꦶꦲꦶꦤ꧀ꦱ꧀ꦠꦭꦱꦶꦚꦱꦺꦭꦺꦱꦲꦶ"
 sleep 1s
-echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
+echo "${BL}[${R}✓${BL}] ${G}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦅꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ..."
 echo " "
 sleep 2s
-echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
+echo "~{${O} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦔꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦲꦤ꧀ ${G}}~"
 sleep 3s
 echo " "
 pip install requests
@@ -1162,7 +1172,7 @@ pip install inquirer
 pip install -r requirements.txt
 git pull
 echo $q $k
-echo "${O}SELESAI MENGINSTALL SCRIPT SELESAI TOD"
+echo "${O}ꦯꦺꦭꦺꦯꦅꦩꦺꦔꦶꦟ꧀ꦯ꧀ꦡꦭ꧀ꦕꦿꦶꦦ꧀ꦯꦺꦭꦺꦯꦅꦡꦺꦴꦢ꧀"
 python run.py
 back2
 }
@@ -1190,7 +1200,7 @@ pip install inquirer
 pip install -r requirements.txt
 git pull
 echo $q $k
-echo "${O}SELESAI MENGINSTALL SCRIPT SELESAI TOD"
+echo "${O}FINISH INSTALLING THE SCRIPT FINISH TOD"
 python run.py
 back3
 }
@@ -1198,7 +1208,7 @@ back3
 S4() {
   banner_log
 trm
-echo "${W} Script By : V.D "
+echo "${W} Script By : ./B7 "
 sleep 1s
 echo  " "
 echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
@@ -1213,17 +1223,17 @@ back
 }
 
 S4J() {
-  banner_log
+  banner_log3
 trm2
-echo "${W} Script By : V.D "
+echo "${W}  ꦯ꧀ꦕꦿꦶ : ./B7"
 sleep 1s
-echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo " "
+echo "${BL}[${R}!${BL}] ${G}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦲꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦱꦶꦡꦺꦂꦩꦸꦲꦼꦠꦸꦁꦒꦸꦱꦩ꧀ꦥꦲꦶꦲꦶꦤ꧀ꦱ꧀ꦠꦭꦱꦶꦚꦱꦺꦭꦺꦱꦲꦶ"
 sleep 1s
-echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
+echo "${BL}[${R}✓${BL}] ${G}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦅꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ..."
 echo " "
 sleep 2s
-echo "~{${O} TOOLS BELUM JADI MASIH DALAM PROGRES  ${G}}~"
+echo "~{${O} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦔꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦲꦤ꧀ ${G}}~"
 sleep 3s
 echo " "
 back2
@@ -1231,15 +1241,15 @@ back2
 S4G() {
   banner_log
 trm
-echo "${W} Script By : V.D "
+echo "${W} Script By : ./B7 "
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo "${BL}[${R}!${BL}] ${G}Sir, using the Termux installation software, wait until the installation is complete"
 sleep 1s
 echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
 echo " "
 sleep 2s
-echo "~{${O} TOOLS BELUM JADI MASIH DALAM PROGRES  ${G}}~"
+echo "~{${O} TOOLS ARE NOT YET STILL IN PROGRESS  ${G}}~"
 sleep 3s
 echo " "
 back3
@@ -1247,7 +1257,7 @@ back3
 S5() {
   banner_log
 trm
-echo "${W} Script By : V.D "
+echo "${W} Script By : ./B7 "
 sleep 1s
 echo  " "
 echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
@@ -1261,17 +1271,17 @@ echo " "
 back
 }
 S5J() {
-  banner_log
+    banner_log3
 trm2
-echo "${W} Script By : V.D "
+echo "${W}  ꦯ꧀ꦕꦿꦶ : ./B7"
 sleep 1s
-echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software installasi Termux tunggu sampai instalasinya selesai"
+echo " "
+echo "${BL}[${R}!${BL}] ${G}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦲꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦱꦶꦡꦺꦂꦩꦸꦲꦼꦠꦸꦁꦒꦸꦱꦩ꧀ꦥꦲꦶꦲꦶꦤ꧀ꦱ꧀ꦠꦭꦱꦶꦚꦱꦺꦭꦺꦱꦲꦶ"
 sleep 1s
-echo "${BL}[${R}✓${BL}] ${G}Loading Installing In Termux..."
+echo "${BL}[${R}✓${BL}] ${G}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦅꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ..."
 echo " "
 sleep 2s
-echo "~{${O} TOOLS BELUM JADI MASIH DALAM PROGRES  ${G}}~"
+echo "~{${O} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦔꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦲꦤ꧀ ${G}}~"
 sleep 3s
 echo " "
 back2
@@ -1279,7 +1289,7 @@ back2
 S5G() {
   banner_log
 trm
-echo "${W} Script By : V.D "
+echo "${W} Script By : ./B7 "
 sleep 1s
 echo  " "
 echo "${BL}[${R}!${BL}] ${G}Sir, using the Termux installation software, wait until the installation is complete"
