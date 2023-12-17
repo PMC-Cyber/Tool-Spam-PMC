@@ -687,7 +687,7 @@ echo -e "${BL}                      ║         ${R}ꦯꦺꦴꦥ꦳꧀ꦡ꧀ꦮ�
 echo -e "${BL}                      ╠════╦═════════════════════════════╣"
 echo -e "${BL}                      ║${G}[${O}F1${G}]${BL}║  ${W}ꦑꦭꦶꦟꦺꦡ꧀ꦲꦸꦟ꧀ꦡꦺꦂꦅꦟ꧀ꦯ꧀ꦡꦭ꧀        ${BL}║"
 echo -e "${BL}                      ║${G}[${O}F2${G}]${BL}║  ${W}ꦈꦨꦸꦟ꧀ꦡꦸꦎꦟ꧀ꦡꦺꦂꦩꦸꦲꦼꦅꦟ꧀ꦯ꧀ꦡll꧀      ${BL}║"
-echo -e "${BL}                      ║${G}[${O}F3${G}]${BL}║  ${W}ꦭꦶꦟꦸꦲꦼꦥ꦳ꦺꦴꦂꦡꦺꦂꦩꦶꦟꦭ꧀              ${BL}║ "
+echo -e "${BL}                      ║${G}[${O}F3${G}]${BL}║  ${W}ꦭꦶꦟꦸꦲꦼꦥ꦳ꦺꦴꦂꦡꦺꦂꦩꦶꦟꦭ꧀               ${BL}║ "
 echo -e "${BL}                      ╚════╩═════════════════════════════╝"
 echo " "
 }
@@ -782,7 +782,7 @@ elif [[ $bantu == up || $bantu == UP ]]; then
 UP
 else
 echo " "
-printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m pilih yang benar \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
 sleep 1
 indo1
 fi
@@ -884,7 +884,7 @@ indo1
 elif [[ $bahan == 2 || $bahan == 02 ]]; then
 exit_we
 else
-printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Pilih yang Benar \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
 sleep 1
 back
 fi
@@ -892,8 +892,8 @@ fi
 
 back2() {
   echo " "
-printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m Back To Menu\e[0m\n"
-printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m Exit\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m01\e[0m\e[1;91m]\e[0m\e[1;93m ꦨꦕ꧀ꦡꦺꦴꦩꦺꦤꦸ\e[0m\n"
+printf "  \e[0m\e[1;91m[\e[0m\e[1;97m02\e[0m\e[1;91m]\e[0m\e[1;93m ꦺꦲꦶꦠ꧀\e[0m\n"
 printf "\e[0m\n"
 read -p $'  \e[1;31m>>\e[0m\e[1;96m  \en' bahan
 
@@ -902,7 +902,7 @@ jawa1
 elif [[ $bahan == 2 || $bahan == 02 ]]; then
 exit_we
 else
-printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m ꦅꦤ꧀ꦮ꦳ꦭꦶꦢ꧀ꦲꦺꦴꦥ꧀ꦠꦶꦲꦺꦴꦤ꧀ \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
 sleep 1
 back
 fi
