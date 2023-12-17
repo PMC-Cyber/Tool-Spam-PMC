@@ -134,6 +134,12 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} INSTALASINYA SCRIPT SELESAI TUAN ..."
 login_kali
 elif [[ $bahan == up || $bahan == UP ]]; then
 UP
+elif [[ $bahan == h1 || $bahan == H1 ]]; then
+bahasa
+elif [[ $bahan == h2 || $bahan == H2 ]]; then
+bahasa2
+elif [[ $bahan == h3 || $bahan == H3 ]]; then
+bahasa3
 elif [[ $bahan == l || $bahan == L ]]; then
 exit_we
 else
