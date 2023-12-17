@@ -472,7 +472,7 @@ echo " "
 ldo2
 echo -e $O"██████████"
 echo " "
-echo -e $W"Selesai masuk sedang memeriksa bahasa yang di pilih "
+echo -e $W"ꦯꦺꦭꦺꦱꦲꦶꦩꦱꦸꦏ꧀ꦱꦺꦢꦁꦩꦺꦩꦺꦫꦶꦏ꧀ꦱꦧꦲꦱꦪꦁꦢꦶꦥꦶꦭꦶꦃ"
 sleep 1
 clear
 }
@@ -533,7 +533,7 @@ echo -e $W"      ┃   ┣━┫ ┃┃┃ ┃ ┳ ┃ ┃ ┣━┫ ┃ ┳ ┣
 echo -e $W"      ┻━┛ ┻ ┻ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻ ┗━┛ ┗━┛     ${G} ███████ ${W}▏ ${O}Sambil Ngopi ya bang ${G}:) "
 echo -e $W"      ┳ ┏┓┏ ┏┳┓ ┏━┓ ┏┓┏ ┏━┓ ┏━┓ ┳ ┏━┓      ${G}███████ ${W}═╯"
 echo -e $W"      ┃ ┃┃┃  ┃┃ ┃ ┃ ┃┃┃ ┣┫  ┗━┓ ┃ ┣━┫      ${G}◥█████◤ "
-echo -e $W"      ┻ ┛┗┛ ━┻┛ ┗━┛ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻┈┻        ${W}Script By ${G}: ${O}UCH-09 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+echo -e $W"      ┻ ┛┗┛ ━┻┛ ┗━┛ ┛┗┛ ┗━┛ ┗━┛ ┻ ┻┈┻        ${W}Script By ${G}: ${O}Mr./B7 "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 echo " "
 sleep 1
 clear
