@@ -366,12 +366,16 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} THE INSTALLATION SCRIPT IS COMPLETE, SI
 iggr1
 }
 
+ldo() {
+echo -e $G"ꦭꦺꦴꦲꦢꦶꦁ....
+"
+}
+
 gres() {
 clear
 echo " "
 echo " "
-echo -e $G"Loading…
-"
+ldo
 echo -e $O"█▒▒▒▒▒▒▒▒▒
 "
 echo -e $G"10%
@@ -380,8 +384,7 @@ sleep 1
 clear
 echo " "
 echo " "
-echo -e $G"Loading…
-"
+ldo
 echo -e $O"███▒▒▒▒▒▒▒
 "
 echo -e $G"30%
@@ -390,8 +393,7 @@ sleep 1
 clear
 echo " "
 echo " "
-echo -e $G"Loading…
-"
+ldo
 echo -e $O"█████▒▒▒▒▒
 "
 echo -e $G"50%
@@ -400,8 +402,7 @@ sleep 1
 clear
 echo " "
 echo " "
-echo -e $G"Loading…
-"
+ldo
 echo -e $O"███████▒▒▒
 "
 echo -e $G"100%
@@ -410,8 +411,7 @@ sleep 1
 clear
 echo " "
 echo " "
-echo -e $G"Loading…
-"
+ldo
 echo -e $O"██████████"
 echo " "
 echo -e $W"Selesai masuk sedang memeriksa bahasa yang di pilih "
