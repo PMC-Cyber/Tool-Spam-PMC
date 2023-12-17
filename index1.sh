@@ -790,8 +790,8 @@ fi
 
 menu36() {
 sleep 1
-echo -e $G "┏⟦ "${W}"Pilih Fitur yang tuan pengin gunakan ${G}:)"
-read -p  ' ┗☞ Enter Your Number :' bantu
+echo -e $G "┏⟦ "${W}"ꦦꦶꦭꦶꦃꦥ꦳ꦶꦠꦸꦂꦪꦁꦠꦸꦲꦤ꧀ꦥꦺꦔꦶꦤ꧀ꦒꦸꦤꦏꦤ꧀ ${G}:)"
+read -p  ' ┗☞ ꦌꦤ꧀ꦠꦺꦂꦪꦺꦴꦲꦸꦂꦟꦸꦩ꧀ꦧꦺꦂ :' bantu
 if [[ $bantu == s1 || $bantu == S1 ]]; then
 S1J
 elif [[ $bantu == s2 || $bantu == S2 ]]; then
@@ -824,7 +824,7 @@ elif [[ $bantu == up || $bantu == UP ]]; then
 UPJ
 else
 echo " "
-printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m Invalid option \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m ꦅꦤ꧀ꦮ꦳ꦭꦶꦢ꧀ꦲꦺꦴꦥ꧀ꦠꦶꦲꦺꦴꦤ꧀ \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
 sleep 1
 jawa1
 fi
