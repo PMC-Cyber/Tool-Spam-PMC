@@ -86,6 +86,7 @@ pkg upgrade && pkg update
 pkg install git
 pkg install python2
 pkg install python
+pkg install python3
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} INSTALASINYA SCRIPT SELESAI TUAN ..."
 login_termux
 elif [[ $bahan == 2 || $bahan == 02 ]]; then
@@ -108,6 +109,7 @@ apt upgrade && pkg update
 apt install git
 apt install python2
 apt install python
+apt install python3
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} INSTALASINYA SCRIPT SELESAI TUAN ..."
 login_linux
 elif [[ $bahan == 3 || $bahan == 03 ]]; then
@@ -130,6 +132,7 @@ sudo apt-get upgrade && pkg update
 sudo apt-get install git
 sudo apt-get install python2
 sudo apt-get install python
+sudo apt-get install python3
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} INSTALASINYA SCRIPT SELESAI TUAN ..."
 login_kali
 elif [[ $bahan == u || $bahan == U ]]; then
