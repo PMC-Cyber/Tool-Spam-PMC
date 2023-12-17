@@ -53,7 +53,7 @@ echo "${BLUE}╠═══╦═════════════════�
 echo -e "${BLUE}║\e[32m[\e[33m1\e[32m]${BLUE}║${WHITE} TERMUX                              ${BLUE}║"
 echo -e "${BLUE}║\e[32m[\e[33m2\e[32m]${BLUE}║${WHITE} LINUX                               ${BLUE}║"
 echo -e "${BLUE}║\e[32m[\e[33m3\e[32m]${BLUE}║${WHITE} KALI LINUX                          ${BLUE}║"
-echo -e "${BLUE}║\e[32m[\e[33m3\e[32m]${BLUE}║${WHITE} UPDATE TOOLS                        ${BLUE}║"
+echo -e "${BLUE}║\e[32m[\e[33mU\e[32m]${BLUE}║${WHITE} UPDATE TOOLS                        ${BLUE}║"
 echo -e "${BLUE}║\e[32m[\e[33mL\e[32m]${BLUE}║${WHITE} KELUAR / LOGOUT                     ${BLUE}║"
 echo "${BLUE}╚═══╩═════════════════════════════════════╝"
 echo ""
@@ -132,7 +132,7 @@ sudo apt-get install python2
 sudo apt-get install python
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} INSTALASINYA SCRIPT SELESAI TUAN ..."
 login_kali
-elif [[ $bahan == up || $bahan == UP ]]; then
+elif [[ $bahan == u || $bahan == U ]]; then
 UP
 elif [[ $bahan == h1 || $bahan == H1 ]]; then
 bahasa
