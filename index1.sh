@@ -50,9 +50,10 @@ echo " "
 echo "${BLUE}╔═════════════════════════════════════════╗"
 echo "║${RED}  PILIH OPERASI YANG SEDANG DI GUNAKAN ${BLUE}  ║"
 echo "${BLUE}╠═══╦═════════════════════════════════════╣"
-echo -e "${BLUE}║\e[32m[\e[33m1\e[32m]${BLUE}║${WHITE} TERMUX                              ${BLUE}║ "
+echo -e "${BLUE}║\e[32m[\e[33m1\e[32m]${BLUE}║${WHITE} TERMUX                              ${BLUE}║"
 echo -e "${BLUE}║\e[32m[\e[33m2\e[32m]${BLUE}║${WHITE} LINUX                               ${BLUE}║"
 echo -e "${BLUE}║\e[32m[\e[33m3\e[32m]${BLUE}║${WHITE} KALI LINUX                          ${BLUE}║"
+echo -e "${BLUE}║\e[32m[\e[33m3\e[32m]${BLUE}║${WHITE} UPDATE TOOLS                        ${BLUE}║"
 echo -e "${BLUE}║\e[32m[\e[33mL\e[32m]${BLUE}║${WHITE} KELUAR / LOGOUT                     ${BLUE}║"
 echo "${BLUE}╚═══╩═════════════════════════════════════╝"
 echo ""
@@ -131,6 +132,8 @@ sudo apt-get install python2
 sudo apt-get install python
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN} INSTALASINYA SCRIPT SELESAI TUAN ..."
 login_kali
+elif [[ $bahan == up || $bahan == UP ]]; then
+UP
 elif [[ $bahan == l || $bahan == L ]]; then
 exit_we
 else
