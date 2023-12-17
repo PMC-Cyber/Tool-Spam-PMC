@@ -1318,7 +1318,7 @@ echo " "
 echo "${R}╔╗╔ ╔═╗   ╦ ╦ ╦ ╦ ╔═╗ ╔╦╗ ╔═╗ ╔═╗ ╔═╗ ╔═╗ "
 echo "${R}║║║ ║ ║   ║║║ ╠═╣ ╠═╣  ║  ╚═╗ ╠═╣ ╠═╝ ╠═╝ "
 echo "${R}╝╚╝ ╚═╝   ╚╩╝ ╩ ╩ ╩ ╩  ╩  ╚═╝ ╩ ╩ ╩   ╩"
-echo "${W} Nomer WhatsApp Admin Kami " 
+echo "${W} ꦟꦺꦴꦩꦺꦂꦮ꧀ꦲꦠ꧀ꦱꦥ꧀ꦄꦢ꧀ꦩꦶꦤ꧀ꦑꦩꦶ " 
 sleep 1
 xdg-open "https://wa.me/6285600685685"
 back2
@@ -1328,7 +1328,7 @@ echo " "
 echo "${R}╔╗╔ ╔═╗   ╦ ╦ ╦ ╦ ╔═╗ ╔╦╗ ╔═╗ ╔═╗ ╔═╗ ╔═╗   "
 echo "${R}║║║ ║ ║   ║║║ ╠═╣ ╠═╣  ║  ╚═╗ ╠═╣ ╠═╝ ╠═╝  "
 echo "${R}╝╚╝ ╚═╝   ╚╩╝ ╩ ╩ ╩ ╩  ╩  ╚═╝ ╩ ╩ ╩   ╩ "
-echo "${W} Nomer WhatsApp Admin Kami " 
+echo "${W} Our Admin WhatsApp Number " 
 sleep 1
 xdg-open "https://wa.me/6285600685685"
 back3
@@ -1352,7 +1352,7 @@ echo " "
 echo "${R}╔═╗ ╦═╗ ╦ ╦ ╔═╗   ╦ ╦ ╦ ╦ ╔═╗ ╔╦╗ ╔═╗ ╔═╗ ╔═╗ ╔═╗   "
 echo "${R}║ ╦ ╠╦╝ ║ ║ ╠═╝   ║║║ ╠═╣ ╠═╣  ║  ╚═╗ ╠═╣ ╠═╝ ╠═╝  "
 echo "${R}╚═╝ ╩╚═ ╚═╝ ╩     ╚╩╝ ╩ ╩ ╩ ╩  ╩  ╚═╝ ╩ ╩ ╩   ╩  "
-echo "${W} GRUP WHATSAPP FROM UC-09 " 
+echo "${W} ꦓꦿꦸꦦ꧀ꦮ꧀ꦲꦡ꧀ꦯꦦ꧀ꦥ꦳ꦿꦺꦴꦩ꧀ꦈꦕ꧀꧇꧐꧙꧇ " 
 sleep 1
 xdg-open "https://chat.whatsapp.com/LqvqjLZdBgt34lxWRrvi5e"
 back2
@@ -1384,7 +1384,7 @@ echo " "
 echo "${R} ╦ ╔═╗ ╦ ╔╗╔   ╔╦╗ ╔═╗ ╦   ╔═╗ ╔═╗ ╦═╗ ╔═╗ ╔╦╗   "
 echo "${R} ║ ║ ║ ║ ║║║    ║  ║╣  ║   ║╣  ║ ╦ ╠╦╝ ╠═╣ ║║║   "
 echo "${R}╚╝ ╚═╝ ╩ ╝╚╝    ╩  ╚═╝ ╩═╝ ╚═╝ ╚═╝ ╩╚═ ╩ ╩ ╩ ╩   "
-echo "${W} GRUP TELEGRAM FROM UC-09 " 
+echo "${W} ꦓꦿꦸꦦ꧀ꦡꦺꦭꦺꦓꦿꦩ꧀ꦥ꦳ꦿꦺꦴꦩ꧀ꦈꦕ꧀꧇꧐꧙꧇ " 
 sleep 1
 xdg-open "https://t.me/UCH_2009_Zephyr"
 back2
@@ -1419,7 +1419,7 @@ echo " "
 echo "${R}╔═╗ ╦ ╔╦╗ ╦ ╦ ╦ ╦ ╔╗    ╔═╗ ╔╦╗ ╔╦╗ ╦ ╔╗╔  "
 echo "${R}║ ╦ ║  ║  ╠═╣ ║ ║ ╠╩╗   ╠═╣  ║║ ║║║ ║ ║║║  "
 echo "${R}╚═╝ ╩  ╩  ╩ ╩ ╚═╝ ╚═╝   ╩ ╩ ═╩╝ ╩ ╩ ╩ ╝╚╝  "
-echo "${W} GITHUB ADMIN FROM UC-09 " 
+echo "${W} ꦓꦶꦛꦸꦨ꧀ꦄꦢ꧀ꦩꦶꦟ꧀ꦥ꦳ꦿꦺꦴꦩ꧀ꦈꦕ꧀꧇꧐꧙꧇ " 
 sleep 1
 xdg-open "https://github.com/Unlimited-Crack-You/Fromv1-2009-UCH"
 back2
@@ -1455,8 +1455,8 @@ echo " "
 echo "${R}╦ ╦ ╔═╗ ╔╗  ╔═╗ ╦ ╔╦╗ ╔═╗   ╔═╗ ╦═╗ ╔═╗ ╔╦╗   ╦ ╦ ╔═╗  "
 echo "${R}║║║ ║╣  ╠╩╗ ╚═╗ ║  ║  ║╣    ╠╣  ╠╦╝ ║ ║ ║║║   ║ ║ ║  "
 echo "${R}╚╩╝ ╚═╝ ╚═╝ ╚═╝ ╩  ╩  ╚═╝   ╚   ╩╚═ ╚═╝ ╩┈╩   ╚═╝ ╚═╝  "
-echo "${W} WEBSITE FROM UC-09 "
-echo "${O} BELUM TERSEDIA "
+echo "${W} ꦮꦺꦨ꧀ꦯꦶꦡꦺꦥ꦳ꦿꦺꦴꦩ꧀ꦈꦕ꧀꧇꧐꧙꧇"
+echo "${O} ꦨꦺꦭꦸꦩ꧀ꦡꦺꦂꦯꦺꦢꦶꦄ "
 sleep 3
 sleep 1
 back2
@@ -1468,7 +1468,7 @@ echo "${R}╦ ╦ ╔═╗ ╔╗  ╔═╗ ╦ ╔╦╗ ╔═╗   ╔═�
 echo "${R}║║║ ║╣  ╠╩╗ ╚═╗ ║  ║  ║╣    ╠╣  ╠╦╝ ║ ║ ║║║   ║ ║ ║  "
 echo "${R}╚╩╝ ╚═╝ ╚═╝ ╚═╝ ╩  ╩  ╚═╝   ╚   ╩╚═ ╚═╝ ╩┈╩   ╚═╝ ╚═╝  "
 echo "${W} WEBSITE FROM UC-09 " 
-echo "${O} BELUM TERSEDIA "
+echo "${O} NOT YET AVAILABLE "
 sleep 3
 sleep 1
 back3
@@ -1495,16 +1495,16 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
                }
 
 F1J() {
-  banner_log
-echo "${WHITE} Script By : KALI LINUX  "
+  banner_log3
+echo "${WHITE} ꦯ꧀ꦕꦿꦶ : KALI LINUX  "
 sleep 1s
 echo  " "
-echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan Software Termux saat masuk Script NetHunter "
+echo "${BLUE}[${RED}!${BLUE}] ${GREEN}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦡꦺꦂꦩꦸꦲꦼꦱꦲꦠ꧀ꦩꦱꦸꦏ꧀ꦕꦿꦶꦥ꧀ꦟꦺꦛꦸꦤ꧀ꦠꦺꦂ "
 sleep 1s
-echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
+echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦡꦺꦴꦲꦺꦴꦭ꧀ꦲꦶꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ.."
     echo " "
       sleep 2s
-   echo "~{${ORANGE} Bersiap Untuk Memasuki Tools ${GREEN}}~"
+   echo "~{${ORANGE} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦩꦱꦸꦏꦶꦡꦺꦴꦲꦺꦴls꧀ ${GREEN}}~"
  echo " "
               apt-get install wget -yq --silent 
                wget -O install-nethunter-termux https://offs.ec/2MceZWr 
@@ -1516,12 +1516,12 @@ F1G() {
 echo "${WHITE} Script By : KALI LINUX  "
 sleep 1s
 echo  " "
-echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan Software Termux saat masuk Script NetHunter "
+echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Sir Use Termux Software when entering the NetHunter Script "
 sleep 1s
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
     echo " "
       sleep 2s
-   echo "~{${ORANGE} Bersiap Untuk Memasuki Tools ${GREEN}}~"
+   echo "~{${ORANGE} Preparing to Enter Tools ${GREEN}}~"
  echo " "
               apt-get install wget -yq --silent 
                wget -O install-nethunter-termux https://offs.ec/2MceZWr 
@@ -1553,16 +1553,16 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
                }
 
 F2J() {
-banner_log
-echo "${WHITE} Script By : UBUNTU  "
+banner_log3
+echo "${WHITE}  ꦯ꧀ꦕꦿꦶ : UBUNTU  "
 sleep 1s
 echo  " "
-echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan Software Termux saat masuk Script Ubuntu "
+echo "${BLUE}[${RED}!${BLUE}] ${GREEN}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦡꦺꦂꦩꦸꦲꦼꦱꦲꦠ꧀ꦩꦱꦸꦏ꧀ꦕꦿꦶꦥ꧀ꦈꦧꦸꦤ꧀ꦠꦸ "
 sleep 1s
-echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
+echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦡꦺꦴꦲꦺꦴꦭ꧀ꦲꦶꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ.."
     echo " "
       sleep 2s
-   echo "~{${ORANGE} Bersiap Untuk Memasuki Tools ${GREEN}}~"
+   echo "~{${ORANGE} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦩꦱꦸꦏꦶꦡꦺꦴꦲꦺꦴls꧀ ${GREEN}}~"
  echo " "
  rm -rf ubuntu-in-termux
                apt-get update && apt-get upgrade -y 
@@ -1580,12 +1580,12 @@ banner_log
 echo "${WHITE} Script By : UBUNTU  "
 sleep 1s
 echo  " "
-echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan Software Termux saat masuk Script Ubuntu "
+echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Sir Use Termux Software when entering Ubuntu Script "
 sleep 1s
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
     echo " "
       sleep 2s
-   echo "~{${ORANGE} Bersiap Untuk Memasuki Tools ${GREEN}}~"
+   echo "~{${ORANGE} Preparing to Enter Tools ${GREEN}}~"
  echo " "
  rm -rf ubuntu-in-termux
                apt-get update && apt-get upgrade -y 
@@ -1614,7 +1614,7 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
  back
  }
  F3J() {
-  banner_log
+  banner_log3
 echo "${WHITE}  ꦯ꧀ꦕꦿꦶ : ./B7  "
 sleep 1s
 echo  " "
