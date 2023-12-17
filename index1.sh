@@ -367,7 +367,17 @@ iggr1
 }
 
 ldo() {
+echo -e $G"Memuat....
+"
+}
+
+ldo2() {
 echo -e $G"ꦭꦺꦴꦲꦢꦶꦁ....
+"
+}
+
+ldo3() {
+echo -e $G"Loading....
 "
 }
 
@@ -419,6 +429,102 @@ sleep 1
 clear
 }
 
+gres2() {
+clear
+echo " "
+echo " "
+ldo2
+echo -e $O"█▒▒▒▒▒▒▒▒▒
+"
+echo -e $G"10%
+"
+sleep 1
+clear
+echo " "
+echo " "
+ldo2
+echo -e $O"███▒▒▒▒▒▒▒
+"
+echo -e $G"30%
+"
+sleep 1
+clear
+echo " "
+echo " "
+ldo2
+echo -e $O"█████▒▒▒▒▒
+"
+echo -e $G"50%
+"
+sleep 1
+clear
+echo " "
+echo " "
+ldo2
+echo -e $O"███████▒▒▒
+"
+echo -e $G"100%
+"
+sleep 1
+clear
+echo " "
+echo " "
+ldo2
+echo -e $O"██████████"
+echo " "
+echo -e $W"Selesai masuk sedang memeriksa bahasa yang di pilih "
+sleep 1
+clear
+}
+
+gres3() {
+clear
+echo " "
+echo " "
+ldo3
+echo -e $O"█▒▒▒▒▒▒▒▒▒
+"
+echo -e $G"10%
+"
+sleep 1
+clear
+echo " "
+echo " "
+ldo3
+echo -e $O"███▒▒▒▒▒▒▒
+"
+echo -e $G"30%
+"
+sleep 1
+clear
+echo " "
+echo " "
+ldo3
+echo -e $O"█████▒▒▒▒▒
+"
+echo -e $G"50%
+"
+sleep 1
+clear
+echo " "
+echo " "
+ldo3
+echo -e $O"███████▒▒▒
+"
+echo -e $G"100%
+"
+sleep 1
+clear
+echo " "
+echo " "
+ldo3
+echo -e $O"██████████"
+echo " "
+echo -e $W"After logging in, check the selected language "
+sleep 1
+clear
+}
+
 indo1() {
 gres
 echo " "
@@ -438,7 +544,7 @@ menu35
 }
 
 jawa1() {
-  gres
+  gres2
 echo " "
 echo -e $W"      ┳   ┏━┓ ┏┓┏ ┏━┓ ┳ ┳ ┏━┓ ┏━┓ ┏━┓       ${O}))))"
 echo -e $W"      ┃   ┣━┫ ┃┃┃ ┃ ┳ ┃ ┃ ┣━┫ ┃ ┳ ┣┫      ${G} ███████ ${W}═╮"
@@ -454,7 +560,7 @@ menu36
 }
 
 iggr1() {
-  gres
+  gres3
 echo " "
 echo -e $W"      ┳   ┏━┓ ┏┓┏ ┏━┓ ┳ ┳ ┏━┓ ┏━┓ ┏━┓       ${O}))))"
 echo -e $W"      ┃   ┣━┫ ┃┃┃ ┃ ┳ ┃ ┃ ┣━┫ ┃ ┳ ┣┫      ${G} ███████ ${W}═╮"
