@@ -1597,26 +1597,10 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
                chmod +x ubuntu.sh 
                ./ubuntu.sh -y
                }
-               
-F3() {
-  banner_log
-echo "${WHITE} Script By : UBUNTU  "
-sleep 1s
-echo  " "
-echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan Software Termux saat masuk Script Ubuntu "
-sleep 1s
-echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
-    echo " "
-      sleep 2s
-   echo "~{${ORANGE} Bersiap Untuk Memasuki Tools ${GREEN}}~"
- echo " "
- echo "${ORANGE} BELUM TERSEDIA MASIH PROGRESS"
- back
- }
 
 F3() {
   banner_log
-echo "${WHITE} Script By : UBUNTU  "
+echo "${WHITE} Script By : ./B7  "
 sleep 1s
 echo  " "
 echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan Software Termux saat masuk Script Ubuntu "
@@ -1631,33 +1615,33 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
  }
  F3J() {
   banner_log
-echo "${WHITE} Script By : UBUNTU  "
+echo "${WHITE}  ꦯ꧀ꦕꦿꦶ : ./B7  "
 sleep 1s
 echo  " "
-echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan Software Termux saat masuk Script Ubuntu "
+echo "${BLUE}[${RED}!${BLUE}] ${GREEN}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦡꦺꦂꦩꦸꦲꦼꦱꦲꦠ꧀ꦩꦱꦸꦏ꧀ꦕꦿꦶꦥ꧀ꦈꦧꦸꦤ꧀ꦠꦸ "
 sleep 1s
-echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
+echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦈꦥ꧀ꦢꦠꦺꦲꦶꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ.."
     echo " "
       sleep 2s
-   echo "~{${ORANGE} Bersiap Untuk Memasuki Tools ${GREEN}}~"
+   echo "~{${ORANGE} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦩꦱꦸꦏꦶꦡꦺꦴꦲꦺꦴls꧀ ${GREEN}}~"
  echo " "
- echo "${ORANGE} BELUM TERSEDIA MASIH PROGRESS"
+ echo "${ORANGE} ꦨꦺꦭꦸꦩ꧀ꦡꦺꦂꦯꦺꦢꦶꦄꦩꦯꦶꦃꦦꦿꦺꦴꦓꦿꦺSS꧀"
  back2
  }
  
  F3G() {
   banner_log
-echo "${WHITE} Script By : UBUNTU  "
+echo "${WHITE} Script By : ./B7 "
 sleep 1s
 echo  " "
-echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Tuan Mengunakan Software Termux saat masuk Script Ubuntu "
+echo "${BLUE}[${RED}!${BLUE}] ${GREEN}Sir Use Termux Software when entering Ubuntu Script "
 sleep 1s
 echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
     echo " "
       sleep 2s
-   echo "~{${ORANGE} Bersiap Untuk Memasuki Tools ${GREEN}}~"
+   echo "~{${ORANGE} Preparing to Enter Tools ${GREEN}}~"
  echo " "
- echo "${ORANGE} BELUM TERSEDIA MASIH PROGRESS"
+ echo "${ORANGE} NOT AVAILABLE YET, STILL PROGRESSING"
  back3
  }
  
@@ -1692,15 +1676,15 @@ echo " "
 echo "${R}┳ ┳ ┏━┓ ┏┳┓ ┏━┓ ┏┳┓ ┏━┓   ┏┳┓ ┏━┓ ┏━┓ ┳   ┏━┓  "
 echo "${R}┃ ┃ ┣━┛  ┃┃ ┣━┫  ┃  ┣┫     ┃  ┃ ┃ ┃ ┃ ┃   ┗━┓  "
 echo "${R}┗━┛ ┻   ━┻┛ ┻ ┻  ┻  ┗━┛    ┻  ┗━┛ ┗━┛ ┻━┛ ┗━┛  "
-echo "${W} Script By :  Mr./B7  "
+echo "${W} ꦯ꧀ꦕꦿꦶ :  Mr./B7  "
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software Termux saat masuk Script Update  "
+echo "${BL}[${R}!${BL}] ${G}ꦡꦸꦲꦤ꧀ꦩꦺꦔꦸꦤꦏꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦡꦺꦂꦩꦸꦲꦼꦱꦲꦠ꧀ꦩꦱꦸꦏ꧀ꦕꦿꦶꦥ꧀ꦈꦥ꧀ꦢꦠꦺ  "
 sleep 1s
-echo "${BL}[${R}✓${BL}] ${G}Loading Installing Update in Termux.."
+echo "${BL}[${R}✓${BL}] ${G}ꦭꦺꦴꦲꦢꦶꦁꦅꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦶꦁꦈꦥ꧀ꦢꦠꦺꦲꦶꦤ꧀ꦡꦺꦂꦩꦸꦲꦼ.."
     echo " "
       sleep 2s
-   echo "~{${O} Bersiap Untuk Mengupdate Tools ${G}}~"
+   echo "~{${O} ꦨꦺꦂꦱꦶꦲꦥ꧀ꦈꦤ꧀ꦠꦸꦏ꧀ꦩꦺꦔꦸꦥ꧀ꦢꦠꦺꦡꦺꦴꦲꦺꦴls꧀ ${G}}~"
 cd $HOME
 rm -rf Tool-Spam-PMC
 git clone https://github.com/PMC-Cyber/Tool-Spam-PMC.git
@@ -1719,7 +1703,7 @@ echo "${R}┗━┛ ┻   ━┻┛ ┻ ┻  ┻  ┗━┛    ┻  ┗━┛ �
 echo "${W} Script By :  Mr./B7  "
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Mengunakan Software Termux saat masuk Script Update  "
+echo "${BL}[${R}!${BL}] ${G}Sir Use Termux Software when entering Script Update  "
 sleep 1s
 echo "${BL}[${R}✓${BL}] ${G}Loading Installing Update in Termux.."
     echo " "
@@ -1748,7 +1732,7 @@ sleep 1s
 echo  " "
 echo "${BL}[${R}!${BL}] ${G}Tuan Sedang Proses Keluar Tunggu TOD"
 sleep 1s
-echo "${BL}[${R}✓${BL}] ${G}Loading Logout In Software From..."
+echo "${BL}[${R}✓${BL}] ${G} Memuat Sistem Exit Software From..."
 echo " "
 sleep 2s
 echo "~{${O} TUUAN TELAH LOGOUT DARI FROM UCH BAY BAY ${G}}~"
@@ -1767,21 +1751,21 @@ echo " "
 echo " "
 echo "${R} ╦    ╔═╗ ╔═╗ ╔═╗ ╦ ╦ ╔╦╗   ╔═╗ ╔═╗ ╦═╗ ╦ ╔═╗ ╔╦╗ "
 echo "${R} ║    ║ ║ ║ ╦ ║ ║ ║ ║  ║    ╚═╗ ║   ╠╦╝ ║ ╠═╝  ║"
-echo "${R} ╩═╝  ╚═╝ ╚═╝ ╚═╝ ╚═╝  ╩    ╚═╝ ╚═╝ ╩╚═ ╩ ╩    ╩ ${O}[ ${W}Logout installasi ${O}]"
+echo "${R} ╩═╝  ╚═╝ ╚═╝ ╚═╝ ╚═╝  ╩    ╚═╝ ╚═╝ ╩╚═ ╩ ╩    ╩ ${O}[ ${W}ꦭꦺꦴꦒꦺꦴꦲꦸꦠ꧀ꦲꦶꦤ꧀ꦱ꧀ꦠꦭ꧀ꦭꦱꦶ ${O}]"
 sleep 1s
-echo "${W} Script By :  Mr./B7  "
+echo "${W} ꦯ꧀ꦕꦿꦶ :  Mr./B7  "
 sleep 1s
 echo  " "
-echo "${BL}[${R}!${BL}] ${G}Tuan Sedang Proses Keluar Tunggu TOD"
+echo "${BL}[${R}!${BL}] ${G}ꦡꦸꦲꦤ꧀ꦯꦺꦢꦁꦦꦿꦺꦴꦱꦺꦱ꧀ꦑꦺꦭꦸꦲꦂꦡꦸꦁꦒꦸꦡꦺꦴꦢ꧀"
 sleep 1s
-echo "${BL}[${R}✓${BL}] ${G}Loading Logout In Software From..."
+echo "${BL}[${R}✓${BL}] ${G}ꦭꦺꦴꦲꦢꦶꦁꦭꦺꦴꦒꦺꦴꦲꦸꦠ꧀ꦅꦤ꧀ꦯꦺꦴꦥ꦳꧀ꦠ꧀ꦮꦫꦺꦥ꦳ꦿꦺꦴꦩ꧀..."
 echo " "
 sleep 2s
-echo "~{${O} TUUAN TELAH LOGOUT DARI FROM UCH BAY BAY ${G}}~"
+echo "~{${O} ꦡꦸꦄꦟ꧀ꦡꦺꦭꦃꦭꦺꦴꦓꦺꦴꦈꦡ꧀ꦢꦫꦶꦥ꦳ꦿꦺꦴꦩ꧀ꦈꦕ꧀ꦨꦪ꧀ꦨꦪ꧀${G}}~"
 sleep 3s
 echo " "
-echo -e $W"KHO :)" 
-echo -e $G"THANK'S Sampai Jumpa di Kemudian Hari"
+echo -e $W"ꦏ꦳ꦺꦴ :)" 
+echo -e $G"ꦛꦟ꧀꧊ꦯ꧀ꦯꦩ꧀ꦥꦲꦶꦗꦸꦩ꧀ꦥꦢꦶꦑꦺꦩꦸꦢꦶꦲꦤ꧀ꦲꦫꦶ"
 echo -e $W"BY ${G}: ${O}Mr./B7"
 sleep 3
 clear
