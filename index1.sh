@@ -852,17 +852,9 @@ echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
 sleep 3s
 echo " "
 termux-setup-storage -y
-pkg update
-pkg upgrade
-apt update
-apt upgrade
 pkg install jq
 pkg install pip
-pkg install git
 pkg install curl
-pkg install python
-pkg install python2
-pkg install python3
 pip install requests
 pip install bs4
 pip install keyboard
@@ -890,17 +882,9 @@ echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
 sleep 3s
 echo " "
 termux-setup-storage -y
-pkg update
-pkg upgrade
-apt update
-apt upgrade
 pkg install jq
 pkg install pip
-pkg install git
 pkg install curl
-pkg install python
-pkg install python2
-pkg install python3
 pip install requests
 pip install bs4
 pip install keyboard
@@ -928,17 +912,9 @@ echo "~{${O} Preparing To Install Tuan ${G}}~"
 sleep 3s
 echo " "
 termux-setup-storage -y
-pkg update
-pkg upgrade
-apt update
-apt upgrade
 pkg install jq
 pkg install pip
-pkg install git
 pkg install curl
-pkg install python
-pkg install python2
-pkg install python3
 pip install requests
 pip install bs4
 pip install keyboard
@@ -965,8 +941,6 @@ sleep 2s
 echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
 sleep 3s
 echo " "
-pkg update && pkg upgrade
-pkg install git
 rm -rf SpamV2
 git clone https://github.com/Unlimited-Crack-You/SpamV2.git
 cd SpamV2
@@ -990,8 +964,6 @@ sleep 2s
 echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
 sleep 3s
 echo " "
-pkg update && pkg upgrade
-pkg install git
 rm -rf SpamV2
 git clone https://github.com/Unlimited-Crack-You/SpamV2.git
 cd SpamV2
@@ -1015,8 +987,6 @@ sleep 2s
 echo "~{${O} Preparing To Install Tuan ${G}}~"
 sleep 3s
 echo " "
-pkg update && pkg upgrade
-pkg install git
 rm -rf SpamV2
 git clone https://github.com/Unlimited-Crack-You/SpamV2.git
 cd SpamV2
@@ -1040,13 +1010,8 @@ sleep 2s
 echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
 sleep 3s
 echo " "
-pkg update && pkg upgrade
-pkg install python
-pkg install git
 pip install requests
 pkg install python-pip
-pkg install python2
-pkg install git
 rm -rf Prank-Call
 git clone https://github.com/Dra-ID/Prank-Call
 cd Prank-Call
@@ -1073,13 +1038,8 @@ sleep 2s
 echo "~{${O} Bersiap Untuk Menginstal Tuan ${G}}~"
 sleep 3s
 echo " "
-pkg update && pkg upgrade
-pkg install python
-pkg install git
 pip install requests
 pkg install python-pip
-pkg install python2
-pkg install git
 rm -rf Prank-Call
 git clone https://github.com/Dra-ID/Prank-Call
 cd Prank-Call
@@ -1106,13 +1066,8 @@ sleep 2s
 echo "~{${O} Preparing To Install Tuan ${G}}~"
 sleep 3s
 echo " "
-pkg update && pkg upgrade
-pkg install python
-pkg install git
 pip install requests
 pkg install python-pip
-pkg install python2
-pkg install git
 rm -rf Prank-Call
 git clone https://github.com/Dra-ID/Prank-Call
 cd Prank-Call
@@ -1462,8 +1417,7 @@ echo "${BLUE}[${RED}✓${BLUE}] ${GREEN}Loading Installing Tools in Termux.."
       sleep 2s
    echo "~{${ORANGE} Bersiap Untuk Memasuki Tools ${GREEN}}~"
  echo " "
- rm -rf ubuntu-in-termux
-               apt-get update && apt-get upgrade -y 
+ rm -rf ubuntu-in-termux 
                apt-get install wget -y 
                apt-get install proot -y 
                apt-get install git -y 
