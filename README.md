@@ -33,6 +33,9 @@
 • INGGRIS
 <br>
 • AKSARA JAWA
+<br>
+<p align="center"><img src="https://i.ibb.co/4VRXV9x/20240118-143323.png" /></p>
+
 
 ![BANNER](https://i.ibb.co/NnmCH9t/IMG-20231015-072445.jpg)
 ![BANNER](https://i.ibb.co/NnmCH9t/IMG-20231015-072445.jpg)
