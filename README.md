@@ -41,7 +41,7 @@
 
 <p align="center"><img src="https://i.ibb.co/HtJmGBG/20240118-144629.png" /></p>
 
-![BANNER](https://i.ibb.co/NnmCH9t/IMG-20231015-072445.jpg)
+<p align="center"><img src="https://i.ibb.co/z41nwnz/20240118-154910.png" /></p>
 
 ## 🛠 Install Tool 🛠
 
@@ -57,13 +57,13 @@
 <br>
 ```pkg install neofetch```
 <br>
-```rm -rf Spam-FromV1```
+```rm -rf Tool-Spam-PMC```
 <br>
-```git clone https://github.com/Unlimited-Crack-You/Spam-FromV1```
+```git clone https://github.com/PMC-Cyber/Tool-Spam-PMC```
 <br>
-```cd Spam-FromV1```
+```cd Tool-Spam-PMC```
 <br>
-```bash install.sh```
+```bash index1.sh```
 <br>
 
 Copyright © 2022, UCH-2009 
