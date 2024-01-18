@@ -37,7 +37,7 @@
 
 <p align="center"><img src="https://i.ibb.co/k6S5bmc/20240118-144541.png" /></p>
 
-![BANNER](https://i.ibb.co/NnmCH9t/IMG-20231015-072445.jpg)
+<p align="center"><img src="https://i.ibb.co/nfgvMKH/20240118-154505.png" /></p>
 
 <p align="center"><img src="https://i.ibb.co/HtJmGBG/20240118-144629.png" /></p>
 
