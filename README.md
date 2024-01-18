@@ -33,7 +33,7 @@
 <br>
 <p align="center"><img src="https://i.ibb.co/4VRXV9x/20240118-143323.png" /></p>
 
-![BANNER](https://i.ibb.co/NnmCH9t/IMG-20231015-072445.jpg)
+<p align="center"><img src="https://i.ibb.co/3WLW0NW/20240118-153918.png" /></p>
 
 <p align="center"><img src="https://i.ibb.co/k6S5bmc/20240118-144541.png" /></p>
 
