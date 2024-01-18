@@ -39,7 +39,16 @@ BLACKBG="$(printf '\033[40m')"
 DEFAULT_FG="$(printf '\033[39m')"
 DEFAULT_BG="$(printf '\033[49m')"
 
+menuyt() {
+clear
+echo "Sebelum melajukan jangan lupa subscribe channel saya TOD....."
+sleep 4
+am start -a android.intent.action.VIEW https://youtube.com/@riz_bear_Developer?feature=shared
+}
+
 menu() {
+menuyt
+clear
 echo " "
 echo -e "${WHITE} ╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╔═╗ ╔═╗ ╦   ╔╦╗ ╦ ╔═╗ ╔═╗  "
 echo -e "${WHITE} ║ ║║║ ╚═╗  ║  ╠═╣ ║   ║   ╠═╣ ╚═╗ ║    ║  ║ ╠═╝ ║╣"
