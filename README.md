@@ -26,10 +26,12 @@
 <p align="center">create the token below here 👇
 <p align="center">
   <a href="https://www.instagram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/TOKEN 👉-CLICK HERE-red?style=for-the-badge&logo=Website"></a>
- 
-# Tersedia 3 bahasa
+
+# TERSEDIA 3 BAHASA
 • INDONESIA
+<br>
 • INGGRIS
+<br>
 • AKSARA JAWA
 
 ![BANNER](https://i.ibb.co/NnmCH9t/IMG-20231015-072445.jpg)
