@@ -21,6 +21,7 @@
 <p align="center">Create a tool login using a token
 <p align="center"><img src="https://i.ibb.co/vPqDP5g/Screenshot-2024-01-16-12-36-46-73.jpg" /></p>
 <p align="center">create the token below here 👇
+<p align="center">NOTE : TOKEN EVERY WEEK WILL ALWAYS BE UPDATED
 <p align="center">
   <a href="https://www.instagram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/TOKEN 👉-CLICK HERE-red?style=for-the-badge&logo=Website"></a>
 
