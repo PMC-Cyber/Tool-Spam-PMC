@@ -23,7 +23,7 @@
 <p align="center">create the token below here 👇
 <p align="center">NOTE : TOKEN EVERY WEEK WILL ALWAYS BE UPDATED
 <p align="center">
-  <a href="https://www.instagram.com/aprizal_febrian" target="_blank"><img src="https://img.shields.io/badge/TOKEN 👉-CLICK HERE-red?style=for-the-badge&logo=Website"></a>
+  <a href="https://adpaylink.com/KeyLogin" target="_blank"><img src="https://img.shields.io/badge/TOKEN 👉-CLICK HERE-red?style=for-the-badge&logo=Website"></a>
 
 # TERSEDIA 3 BAHASA
 • INDONESIA
